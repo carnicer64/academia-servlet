@@ -1,6 +1,6 @@
-# Actividad de Aprendizaje de programación
+# Actividad de Aprendizaje de Programación
 
-Este repositorio contiene la actividad de aprendizaje de las asignaturas de Programación y Entornos de desarrollo.
+Este repositorio contiene la actividad de aprendizaje de la asignatura de *Programación*.
 
 Se ha partido del supuesto de creación de una aplicación web para una academia que gestiona una base de datos con matrículas, alumnos, cursos, usuarios y pagos.
 
